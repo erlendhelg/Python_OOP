@@ -52,7 +52,7 @@ emp_1.raise_amount = float(1.5)
 print(emp_1.fullname)
 print(emp_1.email)
 
-emp_1.fullname = "Poop Richardson"
+emp_1.fullname = "Richard Richardson"
 print(emp_1.fullname)
 print(emp_1.email)
 
